@@ -115,12 +115,10 @@ See [`social_media_workflow.md`](./social_media_workflow.md) for the full approv
 ├── README.md                    # This file
 ├── evaluation_framework.md       # 4-dimension scoring rubric (1-10 scale)
 ├── social_media_workflow.md      # Calendar-to-LinkedIn approval/escalation pipeline
-├── prompts/
-│   ├── generation_prompt.md      # Donor email generation prompt template
-│   ├── evaluation_prompt.md      # Scoring prompt template
-│   └── refinement_prompt.md      # Iteration prompt template
-└── sample_outputs/
-    └── before_after_example.md   # Real example showing iteration improving a donor email
+├── generation_prompt.md          # Donor email generation prompt template
+├── evaluation_prompt.md          # Scoring prompt template
+├── refinement_prompt.md          # Iteration prompt template
+└── before_after_example.md       # Real example showing iteration improving a donor email
 ```
 
 ## My Role
